@@ -93,14 +93,20 @@ class NehemiahNganjo:
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [🐧 Nganjo-OS](https://github.com/Nehemiahnganjo/Nganjo-OS) | My own Arch Linux distro — GNOME/Wayland | `Bash` `Archiso` |
-| [🧠 Brain-AI](https://github.com/Nehemiahnganjo/Brain-AI) | AI assistant — v1 → v2.1 Django web app | `Python` `Django` |
-| [🏦 Karonga-Village-Bank](https://github.com/Nehemiahnganjo/Karonga-Village-Bank) | Village banking system for Bank Mmuzi | `Python` `SQLite` |
-| [💳 Sacco-Glass-CMS-Hub](https://github.com/Nehemiahnganjo/Sacco-Glass-CMS-Hub) | SACCO management platform | `TypeScript` `React` |
-| [🌾 Super-Farm](https://github.com/Nehemiahnganjo/Super-Farm) | Full farm management system | `PHP` `Laravel` |
-| [🖼️ Art-Gallery](https://github.com/Nehemiahnganjo/Art-Gallery) | Gallery web app — Laravel + Django | `PHP` `Python` |
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [🐧 Nganjo-OS](https://github.com/Nehemiahnganjo/Nganjo-OS) | My own Arch Linux distro — GNOME/Wayland | `Bash` `Archiso` | — |
+| [🧠 Brain-AI](https://github.com/Nehemiahnganjo/Brain-AI) | AI assistant — v1 → v2.1 Django web app | `Python` `Django` | — |
+| [🏦 Karonga-Village-Bank](https://github.com/Nehemiahnganjo/Karonga-Village-Bank) | Village banking system for Bank Mmuzi | `Python` `SQLite` | — |
+| [💳 Sacco-Glass-CMS-Hub](https://github.com/Nehemiahnganjo/Sacco-Glass-CMS-Hub) | SACCO management platform | `TypeScript` `React` | — |
+| [🌾 Super-Farm](https://github.com/Nehemiahnganjo/Super-Farm) | Full farm management system | `PHP` `Laravel` | — |
+| [🖼️ Art-Gallery](https://github.com/Nehemiahnganjo/Art-Gallery) | Gallery web app — Laravel + Django | `PHP` `Python` | — |
+
+### 🌐 Live Deployments
+
+| Site | Description |
+|------|-------------|
+| [**uniquesacco.com**](https://uniquesacco.com) | Unique SACCO — full business website + CMS + member portal. Built with Laravel. |
 
 </div>
 
