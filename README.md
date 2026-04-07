@@ -106,6 +106,33 @@ class NehemiahNganjo:
 
 <div align="center">
 
+### 💼 Custom Software Development
+
+> I build custom business software — if you need it, I can build it.
+
+| System | Description |
+|--------|-------------|
+| 🛒 **POS & Retail Systems** | Point of sale, inventory, receipts, sales reports |
+| 🏨 **Lodge & Hotel Management** | Bookings, check-in/out, billing, room management |
+| 🎓 **Student Management Systems** | Enrollment, grades, fees, timetables |
+| 🏦 **SACCO & Banking Systems** | Loans, savings, member accounts, USSD integration |
+| 🌾 **Farm Management Systems** | Livestock, crops, inventory, sales tracking |
+| 📊 **Business Dashboards & CRMs** | Custom admin panels, reporting, analytics |
+| 📱 **Android Mobile Apps** | Native Kotlin apps connected to your backend |
+| 🌐 **Business Websites + CMS** | Full sites with content management, SEO ready |
+| 🔌 **IoT & Automation** | ESP32/Raspberry Pi dashboards, sensor monitoring |
+
+**Based in Malawi 🇲🇼 — working with clients locally and remotely.**
+
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-nehemiahnganjo@outlook.com-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=00d4ff)](mailto:nehemiahnganjo@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B265882730381-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25d366)](https://wa.me/265882730381)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📡 Connect
 
 [![Email](https://img.shields.io/badge/nehemiahnganjo@outlook.com-0d1117?style=for-the-badge&logo=microsoftoutlook&logoColor=00d4ff)](mailto:nehemiahnganjo@outlook.com)
