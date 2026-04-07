@@ -89,7 +89,7 @@ class NehemiahNganjo:
 |---------|-------------|-------|
 | [🐧 Nganjo-OS](https://github.com/Nehemiahnganjo/Nganjo-OS) | Arch Linux distro — GNOME ✅ + KDE 🔧 | `Bash` `Archiso` |
 | [🧠 Brain-AI](https://github.com/Nehemiahnganjo/Brain-AI) | AI assistant — v1 → v2.1 Django web app | `Python` `Django` |
-| [🎙️ Atarah-Assistant](https://github.com/Nehemiahnganjo/Atarah-Assistant) | Offline Jarvis-like voice assistant — wake word, TTS | `Python` `Vosk` |
+| [🤖 Atarah-Assistant](https://github.com/Nehemiahnganjo/Atarah-Assistant) | Original AGI concept — self-aware AI with voice, memory & reasoning | `Python` `AI` |
 | [🏦 Karonga-Village-Bank](https://github.com/Nehemiahnganjo/Karonga-Village-Bank) | Village banking system for Bank Mmuzi | `Python` `SQLite` |
 | [💳 Sacco-Glass-CMS-Hub](https://github.com/Nehemiahnganjo/Sacco-Glass-CMS-Hub) | SACCO management platform | `TypeScript` `React` |
 | [🌾 Super-Farm](https://github.com/Nehemiahnganjo/Super-Farm) | Full farm management system | `PHP` `Laravel` |
