@@ -13,7 +13,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Nehemiahnganjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&count_private=true" />
+<img align="right" width="380" src="https://github-stats-alpha.vercel.app/api?username=Nehemiahnganjo&cc=0d1117&tc=00d4ff&ic=7928ca&bc=0d1117" />
 
 ### `whoami`
 
