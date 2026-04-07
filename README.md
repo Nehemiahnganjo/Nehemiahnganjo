@@ -13,8 +13,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-stats-alpha.vercel.app/api?username=Nehemiahnganjo&cc=0d1117&tc=00d4ff&ic=7928ca&bc=0d1117" />
-
 ### `whoami`
 
 ```python
