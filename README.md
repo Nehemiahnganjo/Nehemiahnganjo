@@ -36,8 +36,6 @@ class NehemiahNganjo:
     fun_fact = "I manage an entire bank's IT infrastructure alone 🏦"
 ```
 
-<br clear="right"/>
-
 ---
 
 <div align="center">
@@ -60,7 +58,6 @@ class NehemiahNganjo:
 ![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=e7352c)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=c51a4a)
 ![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=mqtt&logoColor=00d4ff)
-![AWS IoT](https://img.shields.io/badge/AWS_IoT-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ff9900)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00d4ff)
 ![MSSQL](https://img.shields.io/badge/SQL_Server-0d1117?style=for-the-badge&logo=microsoftsqlserver&logoColor=cc2927)
 
@@ -72,16 +69,13 @@ class NehemiahNganjo:
 
 ### 📊 GitHub Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nehemiahnganjo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7928ca&text_color=ffffff&count_private=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehemiahnganjo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nehemiahnganjo&theme=tokyonight"/>
 
-<br/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nehemiahnganjo&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nehemiahnganjo&theme=tokyonight"/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Nehemiahnganjo&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7928ca&fire=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888"/>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nehemiahnganjo&bg_color=0d1117&color=00d4ff&line=7928ca&point=ffffff&area=true&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nehemiahnganjo&theme=tokyonight"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nehemiahnganjo&theme=tokyonight&utcOffset=2"/>
 
 </div>
 
