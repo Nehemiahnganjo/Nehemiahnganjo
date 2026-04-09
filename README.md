@@ -21,12 +21,13 @@ class NehemiahNganjo:
     location = "Rumphi, Malawi 🇲🇼"
     role     = "IT Officer & Full-Stack Developer"
     company  = "Unique SACCO"
+    previous = "IT Technician @ Malawi College of Accountancy"
     os       = "Nganjo OS (Arch Linux)"  # my own distro — GNOME + KDE editions
 
     stack = {
         "languages" : ["Python", "PHP", "Kotlin", "JavaScript", "Bash"],
         "frameworks": ["Django", "Laravel", "Android SDK"],
-        "infra"     : ["Cisco", "Windows Server", "VMware", "Linux"],
+        "infra"     : ["Cisco", "Windows Server", "Windows Server Config", "VMware", "Linux", "DHIS2"],
         "iot"       : ["ESP32", "Arduino", "MQTT", "Raspberry Pi"],
         "databases" : ["MySQL", "MSSQL", "SQLite"],
         "fintech"   : ["FinFinancials", "Bankers Realm", "USSD"],
