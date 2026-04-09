@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Linux%20Distro%20Builder&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Nganjo+OS+%F0%9F%90%A7;IT+Manager+%40+Rumphi+Teachers+SACCO;Full-Stack+Dev+%7C+Django+%7C+Laravel+%7C+Kotlin;Network+Admin+%7C+Cisco+%7C+Windows+Server;IoT+Engineer+%7C+ESP32+%7C+MQTT+%7C+Raspberry+Pi;Linux+Distro+Builder+%7C+Arch+%7C+GNOME+%2B+KDE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Nganjo+OS+%F0%9F%90%A7;IT+Manager+%40+Rumphi+Teachers+SACCO;Full-Stack+Dev+%7C+Django+%7C+Laravel+%7C+Kotlin;Network+Admin+%7C+Cisco+%7C+Windows+Server;IoT+Engineer+%7C+ESP32+%7C+MQTT+%7C+Raspberry+Pi;Linux+Distro+Builder+%7C+Arch+%7C+GNOME+%2B+KDE;Building+NeoDesktop+%E2%80%94+Custom+GUI+from+Scratch" alt="Typing SVG" />
 
 <br/>
 
@@ -32,7 +32,10 @@ class NehemiahNganjo:
         "fintech"   : ["FinFinancials", "Bankers Realm", "USSD"],
     }
 
-    currently_building = "Nganjo OS v1.0 Lite — GNOME edition (KDE coming soon)"
+    currently_building = [
+        "Nganjo OS v1.0 Lite — GNOME edition (KDE coming soon)",
+        "NeoDesktop — a custom GUI built from scratch for Nganjo OS",
+    ]
     fun_fact = "I manage an entire bank's IT infrastructure alone 🏦"
 ```
 
