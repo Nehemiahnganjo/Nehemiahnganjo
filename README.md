@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Linux%20Distro%20Builder&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Nganjo+OS+%F0%9F%90%A7;IT+Officer+%40+Unique+SACCO;Full-Stack+Dev+%7C+Django+%7C+Laravel+%7C+Kotlin;Network+Admin+%7C+Cisco+%7C+Windows+Server;IoT+Engineer+%7C+ESP32+%7C+MQTT+%7C+Raspberry+Pi;Linux+Distro+Builder+%7C+Arch+%7C+GNOME+%2B+KDE;Building+NeoDesktop+%E2%80%94+Custom+GUI+from+Scratch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Nextlink+OS+%F0%9F%A6%80;IT+Officer+%40+Unique+SACCO;Full-Stack+Dev+%7C+Django+%7C+Laravel+%7C+Kotlin;Network+Admin+%7C+Cisco+%7C+Windows+Server;IoT+Engineer+%7C+ESP32+%7C+MQTT+%7C+Raspberry+Pi;Linux+Distro+Builder+%7C+Arch+%7C+GNOME+%2B+KDE;Building+NeoDesktop+%E2%80%94+Custom+GUI+from+Scratch" alt="Typing SVG" />
 
 <br/>
 
@@ -22,7 +22,7 @@ class NehemiahNganjo:
     role     = "IT Officer & Full-Stack Developer"
     company  = "Unique SACCO"
     previous = "IT Technician @ Malawi College of Accountancy"
-    os       = "Nganjo OS (Arch Linux)"  # my own distro — GNOME + KDE editions
+    os       = "Nextlink OS (Arch + Rust)"  # custom distro — Rust-first userspace
 
     stack = {
         "languages" : ["Python", "PHP", "Kotlin", "JavaScript", "Bash"],
@@ -34,8 +34,8 @@ class NehemiahNganjo:
     }
 
     currently_building = [
-        "Nganjo OS v1.0 Lite — GNOME edition (KDE coming soon)",
-        "NeoDesktop — a custom GUI built from scratch for Nganjo OS",
+        "Nextlink OS — Arch · Rust-first · Maximum performance",
+        "Nextlink OS — Rust init, shell, pkg manager, file manager",
     ]
     fun_fact = "I manage an entire SACCO's IT infrastructure alone 🏦"
 ```
@@ -92,6 +92,7 @@ class NehemiahNganjo:
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🐧 Nganjo-OS](https://github.com/Nehemiahnganjo/Nganjo-OS) | Arch Linux distro — GNOME ✅ + KDE 🔧 | `Bash` `Archiso` |
+| [⚡ NEXTLINK-OS](https://github.com/Nehemiahnganjo/NEXTLINK-OS) | Arch-based distro — Rust PID1, shell, pkg mgr, net daemon | `Rust` `Archiso` |
 | [🧠 Brain-AI](https://github.com/Nehemiahnganjo/Brain-AI) | AI assistant — v1 → v2.1 Django web app | `Python` `Django` |
 | [🤖 Atarah-Assistant](https://github.com/Nehemiahnganjo/Atarah-Assistant) | Original AGI concept — self-aware AI with voice, memory & reasoning | `Python` `AI` |
 | [🏦 Karonga-Village-Bank](https://github.com/Nehemiahnganjo/Karonga-Village-Bank) | Village banking system for Bank Mmuzi | `Python` `SQLite` |
