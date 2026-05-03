@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Linux%20Distro%20Builder&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Nextlink+OS+%F0%9F%A6%80;IT+Officer+%40+Unique+SACCO;Full-Stack+Dev+%7C+Django+%7C+Laravel+%7C+Kotlin;Network+Admin+%7C+Cisco+%7C+Windows+Server;IoT+Engineer+%7C+ESP32+%7C+MQTT+%7C+Raspberry+Pi;Linux+Distro+Builder+%7C+Arch+%7C+GNOME+%2B+KDE;Building+NeoDesktop+%E2%80%94+Custom+GUI+from+Scratch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+Nextlink+OS+%F0%9F%A6%80;IT+Officer+%40+Unique+SACCO;Full-Stack+Dev+%7C+Django+%7C+Laravel+%7C+Kotlin;Network+Admin+%7C+Cisco+%7C+Windows+Server;IoT+Engineer+%7C+ESP32+%7C+MQTT+%7C+Raspberry+Pi;Linux+Distro+Builder+%7C+Arch+%7C+Rust-first;Rust+Systems+Programmer+%7C+no_std+%7C+zero+overhead;Building+NeoDesktop+%E2%80%94+Custom+GUI+from+Scratch" alt="Typing SVG" />
 
 <br/>
 
@@ -25,7 +25,7 @@ class NehemiahNganjo:
     os       = "Nextlink OS (Arch + Rust)"  # custom distro — Rust-first userspace
 
     stack = {
-        "languages" : ["Python", "PHP", "Kotlin", "JavaScript", "Bash"],
+        "languages" : ["Python", "PHP", "Kotlin", "JavaScript", "Bash", "Rust"],
         "frameworks": ["Django", "Laravel", "Android SDK"],
         "infra"     : ["Cisco", "Windows Server", "Windows Server Config", "VMware", "Linux", "DHIS2"],
         "iot"       : ["ESP32", "Arduino", "MQTT", "Raspberry Pi"],
@@ -51,6 +51,7 @@ class NehemiahNganjo:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=00d4ff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f7df1e)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00d4ff)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=f74c00)
 ![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=00d4ff)
 ![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=ff2d20)
 ![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=3ddc84)
