@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Network%20Admin%20%7C%20Full-Stack%20Dev%20%7C%20IT%20Manager%20%40%20Rumphi%20Teachers%20SACCO%20%7C%20Building%20Nextlink%20OS&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Systems+%26+Network+Admin+%7C+Full-Stack+Dev;IT+Manager+%40+Rumphi+Teachers+SACCO;Building+Nextlink+OS+-+Arch+%C2%B7+Rust-first;Django%2C+Laravel%2C+Kotlin+%7C+pick+your+poison;IoT+engineer.+The+ESP32+obeys.;I+don%27t+get+lucky.+I+get+results." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Systems+%26+Network+Admin+%7C+Full-Stack+Dev;IT+Manager+%40+Rumphi+Teachers+SACCO;Building+Nextlink+OS+-+Arch+Rust-first;Django%2C+Laravel%2C+Kotlin+%7C+pick+your+poison;IoT+engineer.+The+ESP32+obeys.;I+don%27t+get+lucky.+I+get+results." alt="Typing SVG" />
 
 <br/>
 
