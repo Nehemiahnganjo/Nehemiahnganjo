@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=*burp*%20...yeah%20I%20build%20stuff.%20Don't%20make%20it%20weird.&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=I'm+not+a+hero.+I'm+a+full-stack+developer.;Wubba+lubba+dub+dub+%F0%9F%A7%AA;I+turned+Arch+Linux+into+an+OS.+You're+welcome.;Rust+is+just+C+with+feelings+and+a+borrow+checker.;I+manage+a+SACCO's+entire+IT+alone.+No+big+deal.;Django%2C+Laravel%2C+Kotlin+—+pick+your+poison.;IoT+engineer.+Yes%2C+the+ESP32+does+what+I+tell+it.;I+don't+get+lucky.+I+get+results+Morty." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=I'm+not+a+hero.+I'm+a+full-stack+developer.;Wubba+lubba+dub+dub+%F0%9F%A7%AA;I+turned+Arch+Linux+into+an+OS.+You're+welcome.;Rust+is+just+C+with+feelings+and+a+borrow+checker.;I+manage+a+SACCO's+entire+IT+alone.+No+big+deal.;Django%2C+Laravel%2C+Kotlin+—+pick+your+poison.;IoT+engineer.+Yes%2C+the+ESP32+does+what+I+tell+it.;I+don't+get+lucky.+I+get+results." alt="Typing SVG" />
 
 <br/>
 
@@ -13,19 +13,19 @@
 
 ---
 
-### `whoami` &nbsp;*(pay attention, Morty)*
+### `whoami` &nbsp;*(pay attention)*
 
 ```python
 class NehemiahNganjo:
-    # Listen Morty, I'm gonna explain this once.
+    # Listen, I'm gonna explain this once.
     name     = "Nehemiah Ng'anjo"
     location = "Rumphi, Malawi 🇲🇼 — yes it's a real place, look it up"
     role     = "IT Officer, Full-Stack Dev, and apparently the only person"
     company  = "Unique SACCO — I run ALL their IT. Alone. By myself."
-    note     = "Do you understand the magnitude of that, Morty?"
+    note     = "Do you understand the magnitude of that?"
 
     stack = {
-        # These aren't 'just languages', Morty. These are weapons.
+        # These aren't 'just languages'. These are weapons.
         "languages" : ["Python", "PHP", "Kotlin", "JavaScript", "Bash", "Rust"],
         "frameworks": ["Django", "Laravel", "Android SDK", "Tauri"],
         "infra"     : ["Cisco", "Windows Server", "VMware", "Linux", "DHIS2"],
@@ -35,15 +35,15 @@ class NehemiahNganjo:
     }
 
     currently_building = [
-        "Nganjo-OS  — Arch Linux. GNOME. Real.",
-        "NEXTLINK-OS — Rust PID1, shell, pkg manager. From scratch.",
+        "Nganjo-OS       — Arch Linux. GNOME. Real.",
+        "NEXTLINK-OS     — Rust PID1, shell, pkg manager. From scratch.",
         "obsidian-control — AI bridge. Your terminal, in your pocket.",
-        "rustpos    — Tauri 2 + Rust POS. Because Django was too slow.",
-        "lodgepms   — Hotel PMS. Because spreadsheets are for people who've given up.",
+        "rustpos         — Tauri 2 + Rust POS. Because Django was too slow.",
+        "lodgepms        — Hotel PMS. Because spreadsheets are for people who've given up.",
     ]
 
     fun_fact = "I manage an entire SACCO's IT infrastructure alone 🏦"
-    rick_says = "That's not a fun fact. That's a cry for help AND a flex simultaneously."
+    rick_says = "That's not a fun fact. That's a flex AND a cry for help simultaneously."
 ```
 
 ---
@@ -52,7 +52,7 @@ class NehemiahNganjo:
 
 ### ⚡ The Arsenal
 
-*"I don't just know these, Morty. I use them. Every single day."*
+*"I don't just know these. I use them. Every single day."*
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39ff14)
 ![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=7928ca)
@@ -94,7 +94,7 @@ class NehemiahNganjo:
 <div align="center">
 
 ### 🚀 Things I Actually Built
-*(not "lorem ipsum" university projects, Morty — real things, used by real people)*
+*(not "lorem ipsum" university projects — real things, used by real people)*
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
