@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Network%20Admin%20%7C%20Full-Stack%20Dev%20%7C%20IT%20Manager%20%40%20Rumphi%20Teachers%20SACCO%20%7C%20Building%20Nextlink%20OS&descAlignY=58&descSize=16&animation=fadeIn"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=500&color=39FF14&background=0D111700&center=true&vCenter=true&width=700&lines=%24+sudo+make+me+a+sandwich;Permission+granted.;%24+git+commit+-m+%22fix%3A+everything%22;%5BERROR%5D+Nothing+to+commit.+Working+tree+clean.;%24+cargo+build+--release;Compiling+the+universe+%28427%2F427%29...;%24+ssh+root%40production;WARNING%3A+You+are+now+responsible+for+everything.;%24+rm+-rf+%2F+--no-preserve-root;Just+kidding.+I%27m+not+a+monster.;%24+ping+reality.exe;Request+timeout.+Reality+unreachable." alt="Nerdy terminal typing" />
 
 <br/>
@@ -151,6 +149,4 @@ class NehemiahNganjo:
 *"And that's the waaaaay the news goes."*
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:39ff14,100:0d1117&height=120&section=footer"/>
 
