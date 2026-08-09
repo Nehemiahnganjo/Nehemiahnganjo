@@ -18,8 +18,7 @@ class NehemiahNganjo:
     # Listen, I'm gonna explain this once.
     name     = "Nehemiah Ng'anjo"
     location = "Rumphi, Malawi 🇲🇼 — yes it's a real place, look it up"
-    role     = "Systems & Network Admin | Full-Stack Dev | IT Manager"
-    company  = "Rumphi Teachers SACCO"
+    role     = "Full-Stack Dev | Systems & Network Admin"
     building = "Nextlink OS — Arch · Rust-first"
 
     stack = {
