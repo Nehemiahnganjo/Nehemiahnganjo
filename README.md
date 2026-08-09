@@ -17,9 +17,6 @@
 class NehemiahNganjo:
     # Listen, I'm gonna explain this once.
     name     = "Nehemiah Ng'anjo"
-    location = "Rumphi, Malawi 🇲🇼 — yes it's a real place, look it up"
-    role     = "Full-Stack Dev | Systems & Network Admin"
-    building = "Nextlink OS — Arch · Rust-first"
 
     stack = {
         # These aren't 'just languages'. These are weapons.
