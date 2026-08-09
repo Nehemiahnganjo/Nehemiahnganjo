@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=*burp*%20...yeah%20I%20build%20stuff.%20Don't%20make%20it%20weird.&descAlignY=58&descSize=16&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:39ff14,100:7928ca&height=200&section=header&text=Nehemiah%20Ng'anjo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Systems%20%26%20Network%20Admin%20%7C%20Full-Stack%20Dev%20%7C%20IT%20Manager%20%40%20Rumphi%20Teachers%20SACCO%20%7C%20Building%20Nextlink%20OS&descAlignY=58&descSize=16&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=I'm+not+a+hero.+I'm+a+full-stack+developer.;Wubba+lubba+dub+dub+%F0%9F%A7%AA;I+turned+Arch+Linux+into+an+OS.+You're+welcome.;Rust+is+just+C+with+feelings+and+a+borrow+checker.;Django%2C+Laravel%2C+Kotlin+—+pick+your+poison.;IoT+engineer.+Yes%2C+the+ESP32+does+what+I+tell+it.;I+don't+get+lucky.+I+get+results." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=700&lines=Systems+%26+Network+Admin+%7C+Full-Stack+Dev;IT+Manager+%40+Rumphi+Teachers+SACCO;Building+Nextlink+OS+—+Arch+%C2%B7+Rust-first;Django%2C+Laravel%2C+Kotlin%2C+Rust+—+pick+your+poison.;IoT+engineer.+Yes%2C+the+ESP32+does+what+I+tell+it.;I+don't+get+lucky.+I+get+results." alt="Typing SVG" />
 
 <br/>
 
@@ -20,8 +20,9 @@ class NehemiahNganjo:
     # Listen, I'm gonna explain this once.
     name     = "Nehemiah Ng'anjo"
     location = "Rumphi, Malawi 🇲🇼 — yes it's a real place, look it up"
-    role     = "IT Officer & Full-Stack Developer"
-    company  = "Unique SACCO"
+    role     = "Systems & Network Admin | Full-Stack Dev | IT Manager"
+    company  = "Rumphi Teachers SACCO"
+    building = "Nextlink OS — Arch · Rust-first"
 
     stack = {
         # These aren't 'just languages'. These are weapons.
