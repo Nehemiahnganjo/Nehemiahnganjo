@@ -148,3 +148,18 @@ class NehemiahNganjo:
 *"And that's the waaaaay the news goes."*
 
 </div>
+
+---
+
+<div align="center">
+
+### ☕ Support
+
+Free and open-source. Use it, fork it, ship it.
+
+If something I built saved you time or made you money — a coffee is appreciated. No pressure.
+
+[![Support via PayPal](https://img.shields.io/badge/Support_via_PayPal-0070ba?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Nextlinkmw)
+
+</div>
+
