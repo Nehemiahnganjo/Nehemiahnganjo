@@ -29,11 +29,10 @@ class NehemiahNganjo:
     }
 
     currently_building = [
-        "Nganjo-OS        — Arch Linux. GNOME. Real.",
         "NEXTLINK-OS      — Rust PID1, shell, pkg manager. From scratch.",
-        "obsidian-control — AI bridge. Your terminal, in your pocket.",
         "rustpos          — Tauri 2 + Rust POS. Because Django was too slow.",
         "lodgepms         — Hotel PMS. Because spreadsheets are for people who've given up.",
+        "Bet_Neural       — Football predictor. Poisson + ML. It knows things.",
     ]
 ```
 
@@ -94,10 +93,10 @@ class NehemiahNganjo:
 | [📡 obsidian-control](https://github.com/Nehemiahnganjo/obsidian-control) | Control your AI terminal from your phone. Via Telegram. | `Python` `AI` |
 | [🧠 Brain-AI](https://github.com/Nehemiahnganjo/Brain-AI) | AI assistant v1 → v2.1. It grew up. | `Python` `Django` |
 | [🤖 Atarah-Assistant](https://github.com/Nehemiahnganjo/Atarah-Assistant) | AGI concept. Voice, memory, reasoning. Don't ask questions. | `Python` `AI` |
-| [🛒 rustpos](https://github.com/Nehemiahnganjo/rustpos) | POS system. Tauri 2 + Rust. Because I got tired of Electron. | `Rust` `React` `Tauri` |
-| [🏨 lodgepms](https://github.com/Nehemiahnganjo/lodgepms) | Hotel PMS. Rooms, bookings, folios. The works. | `Rust` `Axum` `Tauri` |
+| [⚽ Bet_Neural](https://github.com/Nehemiahnganjo/Bet_Neural) | Predicts football matches. Poisson + ensemble ML. Knows more than pundits. | `Python` `ML` |
 | [🏠 Next_Smart_Home](https://github.com/Nehemiahnganjo/Next_Smart_Home) | IoT home automation. ESP32, MQTT, real-time WebSockets. | `ESP32` `Laravel` `Android` |
 | [🏦 Karonga-Village-Bank](https://github.com/Nehemiahnganjo/Karonga-Village-Bank) | Village banking system. Yes, a whole bank. | `Python` `SQLite` |
+| [💰 Processor-main](https://github.com/Nehemiahnganjo/Processor-main) | Cleans payment CSVs and exports them for the finance system. Saves hours. | `Python` |
 
 ### 🌐 Live in Production
 
