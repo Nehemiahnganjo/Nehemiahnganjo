@@ -65,19 +65,36 @@ class NehemiahNganjo:
 
 </div>
 
+
 ---
 
 <div align="center">
 
 ### 📊 Stats *(since people ask)*
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nehemiahnganjo&theme=tokyonight"/>
+<!-- Live real-time stats — auto-refreshes every 30 min -->
 
+<!-- Widgetbox: followers, repos, stars, commits — all live -->
+<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Nehemiahnganjo&data=followers,repositories,stars,commits&theme=nautilus"/>
+
+<!-- Streak — longest run, current run, total contributions -->
+<img width="100%" src="https://streak-stats.demolab.com?user=Nehemiahnganjo&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&background=0D1117&sideLabels=39FF14&currStreakLabel=39FF14&ring=7928CA&fire=F74C00&stroke=0D1117"/>
+
+<!-- Profile Summary Cards — 2x2 grid -->
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nehemiahnganjo&theme=tokyonight"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nehemiahnganjo&theme=tokyonight"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nehemiahnganjo&theme=tokyonight"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nehemiahnganjo&theme=tokyonight&utcOffset=2"/>
+
+<!-- Full-width contribution timeline -->
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nehemiahnganjo&theme=tokyonight"/>
+
+<!-- Live counters row -->
+![Followers](https://img.shields.io/github/followers/Nehemiahnganjo?style=for-the-badge&color=7928ca&labelColor=0d1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Nehemiahnganjo?style=for-the-badge&color=39ff14&labelColor=0d1117&label=TOTAL+STARS)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nehemiahnganjo&color=39ff14&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Nehemiahnganjo)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FNehemiahnganjo&query=%24.public_repos&style=for-the-badge&color=f74c00&labelColor=0d1117&label=PUBLIC+REPOS)
 
 </div>
 
