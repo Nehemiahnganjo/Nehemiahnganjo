@@ -85,9 +85,7 @@ class NehemiahNganjo:
 
 <div align="center">
 
-*Malawi 🇲🇼 and remote. Scope doesn't scare me.*
-&nbsp;·&nbsp;
-*"And that's the waaaaay the news goes."*
+*Rumphi, Malawi 🇲🇼 · Open to remote work*
 
 [![Support via PayPal](https://img.shields.io/badge/☕_Buy_me_a_coffee-0070ba?style=flat-square&logo=paypal&logoColor=white)](https://paypal.me/Nextlinkmw)
 
