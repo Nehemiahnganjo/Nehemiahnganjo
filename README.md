@@ -19,7 +19,7 @@ class NehemiahNganjo:
     stack    = ["Python", "Rust", "PHP", "Kotlin", "JavaScript", "Bash"]
     building = ["NEXTLINK-OS", "rustpos", "nextlinkmw-pms", "Bet_Neural"]
     focus    = ["Local AI", "Embedded Systems", "Custom OS", "Fintech"]
-    motto    = "I do not use tools I cannot understand. I build the ones I need."
+    motto    = "The best abstraction is the one you wrote yourself."
 ```
 
 ---
